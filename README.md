@@ -1,5 +1,5 @@
 # AISTRTestCaseGenerator
-Script to generate testcases for the third assignment of the 2020 AISTR course. Probably only runs on Linux. 
+Script to generate testcases for the third assignment of the 2021 AISTR course. Probably only runs on Linux. 
 
 It uses libFuzzer to fuzz the RERS problems, generating inputs that maximize the coverage through the problems.
 
