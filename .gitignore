@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*Testcases.txt
+.idea/
+*.zip
+libfuzzer/Seq*2020/
+/testcases/
